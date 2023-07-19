@@ -25,6 +25,9 @@
 
 ![2023-07-19T07:45:44.png][4]
 
+### 购买地址
+[https://www.icucoo.xyz/archives/the-shop-vue.html](https://www.icucoo.xyz/archives/the-shop-vue.html)
+
 
 ### 更新日志
 
@@ -108,3 +111,4 @@
   [17]: https://ghcdn.icucoo.xyz/UsdtTokenApi/codepic/master/2023/07/19/1689751566.png
   [18]: https://ghcdn.icucoo.xyz/UsdtTokenApi/codepic/master/2023/07/19/1689751593.png
   [19]: https://ghcdn.icucoo.xyz/UsdtTokenApi/codepic/master/2023/07/19/1689751613.png
+  
