@@ -1,7 +1,6 @@
-# the-shop-vue
 ### 产品介绍
 
-- 老外开发的全新的正版`PWA`跨境商城，前端基于`Vue.js`，后端`Laravel`，性能飞升！
+- 老外开发的全新的正版`PWA`跨境商城，前端基于`Vue.js`，后端`Laravel`，相比较纯laravel版本的性能飞升！
 - 花了 $799 + $100 手续费购买的正版许可，**可以商用**，**包含所有Vue未编译源码**
 - 目前更新到版本`V2.6`，**终身免费更新**，购买直接保存下载链接即可，后续更新都在下载链接中
 - 另购买了多商户插件，原版需要额外购买多商户插件才能支持多商户，这里一并整合到下载链接中
@@ -9,11 +8,17 @@
 - 任意添加多语言，卖家一键铺货
 
 
+**更新日志**
+- 更新对接所有官方演示数据 + 图片
+- **去除官方后门**，独立开发替换官方扩展，去除后门和原版**访问过慢**的问题，现在基本是秒开
+- 去除授权验证，永久免授权，绝不再跳授权
+
 > b2b2c跨境电商商城系统中英繁多语言多商户货贷商城统产品库一键选品一键铺货商城
 
 
 ![2023-07-19T07:31:53.png][1]
 
+ ### 购买地址 [https://www.icucoo.xyz/archives/the-shop-vue.html](https://www.icucoo.xyz/archives/the-shop-vue.html)
 
 
 ### 购买凭证
@@ -24,9 +29,6 @@
 ### 源码截图
 
 ![2023-07-19T07:45:44.png][4]
-
-### 购买地址
-[https://www.icucoo.xyz/archives/the-shop-vue.html](https://www.icucoo.xyz/archives/the-shop-vue.html)
 
 
 ### 更新日志
@@ -111,4 +113,3 @@
   [17]: https://ghcdn.icucoo.xyz/UsdtTokenApi/codepic/master/2023/07/19/1689751566.png
   [18]: https://ghcdn.icucoo.xyz/UsdtTokenApi/codepic/master/2023/07/19/1689751593.png
   [19]: https://ghcdn.icucoo.xyz/UsdtTokenApi/codepic/master/2023/07/19/1689751613.png
-  
